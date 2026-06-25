@@ -1,0 +1,26 @@
+# Core deep learning
+torch>=2.0
+torchvision>=0.15
+timm>=0.9.0
+
+# Image processing
+opencv-python>=4.7
+pillow>=9.0
+numpy>=1.24,<2.0
+
+# Classical ML / metrics
+scikit-learn>=1.2
+pandas>=1.5
+
+# Visualisation
+matplotlib>=3.6
+seaborn>=0.12
+
+# Utilities
+tqdm>=4.64
+
+# GUI
+streamlit>=1.28
+
+# Optional: PDF clinical report export in the GUI
+fpdf2>=2.7
